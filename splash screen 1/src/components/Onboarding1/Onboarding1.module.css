@@ -1,0 +1,148 @@
+.statusBar.statusBar {
+  width: 375px;
+}
+.notch.notch {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  overflow: visible;
+}
+.rightSide.rightSide {
+  left: 294px;
+}
+.rightSide {
+  left: 294px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 375px;
+  height: 812px;
+  background-color: #fff;
+}
+.rectangle2 {
+  position: absolute;
+  left: 87px;
+  top: 655px;
+  width: 201px;
+  height: 59px;
+  border-radius: 20px;
+  background-color: #5063bf;
+}
+.rectangle3 {
+  position: absolute;
+  left: 87px;
+  top: 668px;
+  width: 201px;
+  height: 59px;
+  border-radius: 20px;
+  background-color: #5063bf;
+  filter: blur(100px);
+}
+.comencemos {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 600;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 121px;
+  top: 671px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.bienvenidoAFinanciaGo {
+  position: absolute;
+  left: 55px;
+  top: 406px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 40px;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #1e1e1e;
+  font-size: 45px;
+  line-height: 46.5px;
+  font-weight: bold;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.labelWrapper2 {
+  font-size: 36px;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label2 {
+  color: #5063bf;
+  font-size: 36px;
+  line-height: 46.5px;
+  font-weight: bold;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.laMejorFormaDeHacerSeguimiento {
+  position: absolute;
+  left: 45px;
+  top: 528px;
+  width: 286px;
+  height: 50px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #878787;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #878787;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.financiogo_logoRemovebgPreview {
+  position: absolute;
+  left: 140px;
+  top: 266px;
+  width: 95px;
+  height: 90px;
+  background-image:/* webpackIgnore: true */ url('assets/financiogo_logoRemovebgPreview.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
