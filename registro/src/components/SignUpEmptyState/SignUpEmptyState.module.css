@@ -1,0 +1,346 @@
+.statusBar.statusBar {
+  width: 375px;
+  height: 39px;
+}
+.notch.notch {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  overflow: visible;
+}
+.rightSide.rightSide {
+  left: 294px;
+}
+.rightSide {
+  left: 294px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 375px;
+  height: 812px;
+  background-color: #fff;
+}
+.rectangle2 {
+  position: absolute;
+  left: 87px;
+  top: 508px;
+  width: 201px;
+  height: 59px;
+  border-radius: 20px;
+  background-color: #5063bf;
+}
+.rectangle3 {
+  position: absolute;
+  left: 87px;
+  top: 521px;
+  width: 201px;
+  height: 59px;
+  border-radius: 20px;
+  background-color: #5063bf;
+  filter: blur(100px);
+}
+.registrarse {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 600;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 523px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.registrarse2 {
+  position: absolute;
+  left: 33px;
+  top: 74px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #0166ff;
+  font-size: 40px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+}
+.labelWrapper {
+  font-size: 40px;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #1e1e1e;
+  font-size: 40px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.correoElectronico {
+  color: #878787;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 33px;
+  top: 207px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.yaTienesUnaCuentaIngresar {
+  position: absolute;
+  left: 91px;
+  top: 744px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper2 {
+  font-size: 14px;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label2 {
+  color: #5063bf;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label3 {
+  color: #878787;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label4 {
+  color: #5063bf;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label5 {
+  color: #5063bf;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+}
+.mainideasGmailCom {
+  color: #c4c4c4;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 33px;
+  top: 240px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.contrasena {
+  color: #878787;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 33px;
+  top: 299px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.confirmarContrasena {
+  color: #878787;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 33px;
+  top: 391px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.o {
+  color: #b1b1b1;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 181px;
+  top: 605px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line1 {
+  position: absolute;
+  left: 33px;
+  top: 273px;
+  width: 309px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #c4c4c4;
+}
+.line2 {
+  position: absolute;
+  left: 33px;
+  top: 365px;
+  width: 309px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #b1b1b1;
+}
+.line3 {
+  position: absolute;
+  left: 33px;
+  top: 457px;
+  width: 309px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #b1b1b1;
+}
+.line4 {
+  position: relative;
+  left: 87px;
+  top: 615px;
+  width: 79px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+}
+.line4::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+  transform: translateY(1px) rotate(0deg);
+  width: 79px;
+  height: 0;
+  border-bottom: solid 1px #b1b1b1;
+}
+.line5 {
+  position: relative;
+  left: 209px;
+  top: 615px;
+  width: 79px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+}
+.line5::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+  transform: rotate(0deg);
+  width: 79px;
+  height: 0;
+  border-bottom: solid 1px #b1b1b1;
+}
+.rectangle4 {
+  position: absolute;
+  left: 106px;
+  top: 640px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  background-color: #eee;
+}
+.rectangle33 {
+  position: absolute;
+  left: 322.6667px;
+  top: 338.619px;
+  width: 18.5714px;
+  height: 14.8571px;
+  border-radius: 15px;
+  background-color: #878787;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup2.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup2.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 4.333333492279053px -0.6190476417541504px;
+  mask-position: 4.333333492279053px -0.6190476417541504px;
+  -webkit-mask-size: 13px 13px;
+  mask-size: 13px 13px;
+}
+.rectangle332 {
+  position: absolute;
+  left: 322.6667px;
+  top: 430.619px;
+  width: 18.5714px;
+  height: 14.8571px;
+  border-radius: 15px;
+  background-color: #878787;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup3.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup3.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 4.333333492279053px -0.6190476417541504px;
+  mask-position: 4.333333492279053px -0.6190476417541504px;
+  -webkit-mask-size: 13px 13px;
+  mask-size: 13px 13px;
+}
+.financiogo_logoRemovebgPreview {
+  position: absolute;
+  left: 28px;
+  top: 49px;
+  width: 78px;
+  height: 58px;
+  background-image:/* webpackIgnore: true */ url('assets/financiogo_logoRemovebgPreview.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
