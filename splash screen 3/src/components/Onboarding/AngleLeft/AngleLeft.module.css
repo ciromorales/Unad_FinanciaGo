@@ -1,0 +1,19 @@
+.root {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.angleLeft {
+  position: absolute;
+  left: 30.2094%;
+  right: 34.3718%;
+  top: 17.7053%;
+  bottom: 17.7082%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
