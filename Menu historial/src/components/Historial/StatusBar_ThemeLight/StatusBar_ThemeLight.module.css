@@ -1,0 +1,116 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 393px;
+  height: 94px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.topStatusBar {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 52px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.rightSide {
+  position: absolute;
+  left: 312px;
+  top: 20px;
+  width: 66.662px;
+  height: 11.3363px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.timeLightBase {
+  position: absolute;
+  left: 3px;
+  top: 16px;
+  width: 54px;
+  height: 21px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle1 {
+  position: absolute;
+  left: 134px;
+  top: 11px;
+  width: 125px;
+  height: 37px;
+  border-radius: 40px;
+  background-color: #121212;
+}
+.leftTitleRight {
+  position: absolute;
+  left: 50%;
+  top: 52px;
+  width: 393px;
+  height: 42px;
+  align-items: center;
+  transform: translateX(-50%);
+}
+.LeftAccessory {
+  flex: 1;
+  align-self: stretch;
+  align-items: center;
+  gap: 4px;
+  padding: 8px;
+}
+.LeftTitle {
+  color: #304ffe;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.Title {
+  width: 191px;
+  height: min-content;
+}
+.Title2 {
+  color: #121212;
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.RightAccessory {
+  flex: 1;
+  align-self: stretch;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 8px 16px 8px 8px;
+}
+.RightTitle {
+  color: #304ffe;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
