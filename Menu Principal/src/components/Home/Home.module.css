@@ -1,0 +1,284 @@
+.home.home {
+  left: 65px;
+  top: 739px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.user_2.user_2 {
+  left: 297px;
+  top: 739px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.chart.chart {
+  left: 216px;
+  top: 739px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.wallet.wallet {
+  left: 140px;
+  top: 739px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.statusBar.statusBar {
+  width: 375px;
+  height: 39px;
+}
+.notch.notch {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  overflow: visible;
+}
+.rightSide.rightSide {
+  left: 294px;
+}
+.rightSide {
+  left: 294px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.addSquare2.addSquare2 {
+  left: 91px;
+  top: 596px;
+  width: 79px;
+  height: 79px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.car.car {
+  left: 89px;
+  top: 551px;
+}
+.cart4.cart4 {
+  left: 331px;
+  top: 423px;
+}
+.home1.home1 {
+  left: 30px;
+  top: 375px;
+}
+.minusCircleContained.minusCircleContained {
+  left: 232px;
+  top: 594px;
+  width: 79px;
+  height: 79px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.champagneGlasses.champagneGlasses {
+  left: 123px;
+  top: 278px;
+  width: 26px;
+  height: 25px;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 375px;
+  height: 812px;
+  background-color: #fff;
+}
+.gastos {
+  color: #878787;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.003em;
+  position: absolute;
+  left: 25px;
+  top: 112px;
+  width: 151px;
+  height: min-content;
+  flex-direction: column;
+}
+.resumen {
+  color: #878787;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.003em;
+  position: absolute;
+  left: 22px;
+  top: 205px;
+  width: 102.6959px;
+  height: min-content;
+  flex-direction: column;
+}
+._1576150 {
+  color: #5163bf;
+  font-size: 35px;
+  line-height: 21px;
+  font-weight: bold;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.003em;
+  position: absolute;
+  left: 23px;
+  top: 152px;
+  width: 233px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle170 {
+  position: absolute;
+  left: 24px;
+  top: 716px;
+  width: 327px;
+  height: 70px;
+  border-radius: 20px;
+  background-color: #1e1e1e1a;
+  filter: blur(15px);
+}
+.rectangle169 {
+  position: absolute;
+  left: 24px;
+  top: 716px;
+  width: 327px;
+  height: 70px;
+  border-radius: 20px;
+  background-color: #fff;
+}
+.rectangle172 {
+  position: absolute;
+  left: 54px;
+  top: 731px;
+  width: 44px;
+  height: 80px;
+  border-radius: 50px 50px 0 0;
+  background-color: #0166ff33;
+  filter: blur(10px);
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: -31px -14px;
+  mask-position: -31px -14px;
+  -webkit-mask-size: 327px 70px;
+  mask-size: 327px 70px;
+}
+.rectangle171 {
+  position: absolute;
+  left: 54px;
+  top: 731px;
+  width: 44px;
+  height: 80px;
+  border-radius: 50px 50px 0 0;
+  background-color: #5164bf;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: -31px -14px;
+  mask-position: -31px -14px;
+  -webkit-mask-size: 327px 70px;
+  mask-size: 327px 70px;
+}
+.verTodo {
+  color: #5163bf;
+  font-size: 14px;
+  line-height: 21px;
+  font-family: Akshar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.003em;
+  position: absolute;
+  left: 291px;
+  top: 205px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 8%;
+  right: 87.2%;
+  top: 7.6355%;
+  bottom: 90.3941%;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 85.8667%;
+  right: 8.8%;
+  top: 7.6355%;
+  bottom: 89.7167%;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle173 {
+  position: absolute;
+  left: 336px;
+  top: 60px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50px;
+  background-color: #eb4335;
+}
+.torta1 {
+  position: absolute;
+  left: 41px;
+  top: 283px;
+  width: 290px;
+  height: 280px;
+  background-image:/* webpackIgnore: true */ url('assets/torta1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.financiogo_logoRemovebgPreview {
+  position: absolute;
+  left: 291px;
+  top: 107px;
+  width: 78px;
+  height: 58px;
+  background-image:/* webpackIgnore: true */ url('assets/financiogo_logoRemovebgPreview.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

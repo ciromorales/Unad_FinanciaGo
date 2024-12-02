@@ -1,0 +1,22 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 14px;
+  height: 14px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.icon {
+  position: absolute;
+  left: 2.6775%;
+  right: 2.6776%;
+  top: 1.1335%;
+  bottom: 1.1319%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
