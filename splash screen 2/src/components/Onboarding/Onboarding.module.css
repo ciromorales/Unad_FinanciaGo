@@ -1,0 +1,108 @@
+.homeIndicator.homeIndicator {
+  top: 818px;
+}
+.notch.notch {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.rectangle1081.rectangle1081 {
+  background-color: #d0d0d0;
+}
+.rectangle1082.rectangle1082 {
+  background-color: #d0d0d0;
+}
+.rectangle1083.rectangle1083 {
+  background-color: #5164bf;
+}
+.button.button {
+  height: 56px;
+  padding: 16px 162px;
+  background-color: #5164bf;
+}
+.label {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.container {
+  position: absolute;
+  left: 50%;
+  top: 142px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 71px;
+  transform: translateX(-50%);
+}
+.content {
+  width: min-content;
+  height: 516px;
+  flex-direction: column;
+  align-items: center;
+  gap: 88px;
+}
+.row {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+.content2 {
+  width: min-content;
+  height: min-content;
+  padding: 8px 18px;
+}
+.protegemosTuInformacion {
+  color: #2a2a2a;
+  font-size: 34px;
+  line-height: 41px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 357px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.financiogo_logoRemovebgPreview {
+  position: absolute;
+  left: 151px;
+  top: 62px;
+  width: 83px;
+  height: 75px;
+  background-image:/* webpackIgnore: true */ url('assets/financiogo_logoRemovebgPreview.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

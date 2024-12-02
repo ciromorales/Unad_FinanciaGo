@@ -1,0 +1,25 @@
+.root {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 6px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.rectangle1081 {
+  width: 37px;
+  height: 8px;
+  border-radius: 19px;
+  background-color: #e8e8e8;
+}
+.rectangle1082 {
+  width: 37px;
+  height: 8px;
+  border-radius: 19px;
+  background-color: #e8e8e8;
+}
+.rectangle1083 {
+  width: 16px;
+  height: 8px;
+  border-radius: 19px;
+  background-color: #0265dc;
+}
