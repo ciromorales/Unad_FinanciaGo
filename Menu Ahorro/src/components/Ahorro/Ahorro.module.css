@@ -1,0 +1,393 @@
+.home.home {
+  left: 65px;
+  top: 739px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.user_2.user_2 {
+  left: 297px;
+  top: 739px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.chart.chart {
+  left: 216px;
+  top: 739px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.wallet.wallet {
+  left: 140px;
+  top: 739px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.statusBar.statusBar {
+  width: 375px;
+  height: 39px;
+}
+.notch.notch {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  overflow: visible;
+}
+.rightSide.rightSide {
+  left: 294px;
+}
+.rightSide {
+  left: 294px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.addSquare2.addSquare2 {
+  left: 70px;
+  top: 431px;
+  width: 79px;
+  height: 79px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.minusCircleContained.minusCircleContained {
+  left: 225px;
+  top: 431px;
+  width: 79px;
+  height: 79px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.securityVault.securityVault {
+  left: 91px;
+  top: 250px;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.beach.beach {
+  left: 55px;
+  top: 651px;
+  width: 30px;
+  height: 30px;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 375px;
+  height: 812px;
+  background-color: #fff;
+}
+.unnamed {
+  color: #5163bf;
+  font-size: 14px;
+  line-height: 21px;
+  font-family: Akshar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.003em;
+  position: absolute;
+  left: 32px;
+  top: 370px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._1Millon {
+  color: #5163bf;
+  font-size: 14px;
+  line-height: 21px;
+  font-family: Akshar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.003em;
+  position: absolute;
+  left: 301px;
+  top: 370px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ahorro {
+  color: #878787;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.003em;
+  position: absolute;
+  left: 25px;
+  top: 102px;
+  width: 151px;
+  height: min-content;
+  flex-direction: column;
+}
+.resumen {
+  color: #878787;
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 500;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.003em;
+  position: absolute;
+  left: 22px;
+  top: 178px;
+  width: 102.6959px;
+  height: min-content;
+  flex-direction: column;
+}
+._50000 {
+  color: #5163bf;
+  font-size: 35px;
+  line-height: 21px;
+  font-weight: bold;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.003em;
+  position: absolute;
+  left: 23px;
+  top: 142px;
+  width: 233px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle170 {
+  position: absolute;
+  left: 24px;
+  top: 716px;
+  width: 327px;
+  height: 70px;
+  border-radius: 20px;
+  background-color: #1e1e1e1a;
+  filter: blur(15px);
+}
+.rectangle169 {
+  position: absolute;
+  left: 24px;
+  top: 716px;
+  width: 327px;
+  height: 70px;
+  border-radius: 20px;
+  background-color: #fff;
+}
+.rectangle172 {
+  position: absolute;
+  left: 131px;
+  top: 738px;
+  width: 44px;
+  height: 80px;
+  border-radius: 50px 50px 0 0;
+  background-color: #0166ff33;
+  filter: blur(10px);
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: -108px -21px;
+  mask-position: -108px -21px;
+  -webkit-mask-size: 327px 70px;
+  mask-size: 327px 70px;
+}
+.rectangle171 {
+  position: absolute;
+  left: 130px;
+  top: 732px;
+  width: 44px;
+  height: 80px;
+  border-radius: 50px 50px 0 0;
+  background-color: #5164bf;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: -107px -15px;
+  mask-position: -107px -15px;
+  -webkit-mask-size: 327px 70px;
+  mask-size: 327px 70px;
+}
+.vector {
+  position: absolute;
+  left: 8%;
+  right: 87.2%;
+  top: 7.6355%;
+  bottom: 90.3941%;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 85.8667%;
+  right: 8.8%;
+  top: 7.6355%;
+  bottom: 89.7167%;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle173 {
+  position: absolute;
+  left: 336px;
+  top: 60px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50px;
+  background-color: #eb4335;
+}
+.financiogo_logoRemovebgPreview {
+  position: absolute;
+  left: 291px;
+  top: 107px;
+  width: 78px;
+  height: 58px;
+  background-image:/* webpackIgnore: true */ url('assets/financiogo_logoRemovebgPreview.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle2 {
+  position: absolute;
+  left: 87px;
+  top: 537px;
+  width: 218px;
+  height: 59px;
+  border-radius: 50px;
+  background-color: #5164bf;
+}
+.rectangle3 {
+  position: absolute;
+  left: 87px;
+  top: 537px;
+  width: 220px;
+  height: 59px;
+  border-radius: 50px;
+  background-color: #5164bf;
+  filter: blur(100px);
+}
+.configurarMeta {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 600;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 117px;
+  top: 552px;
+  width: 165px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle179 {
+  position: absolute;
+  left: 27px;
+  top: 627px;
+  width: 322px;
+  height: 79px;
+  border-radius: 20px;
+  background-color: #fff;
+}
+.rectangle181 {
+  position: absolute;
+  left: 40px;
+  top: 638px;
+  width: 57px;
+  height: 57px;
+  border-radius: 15px;
+  background-color: #5164bf;
+}
+.viajeASantaMarta {
+  color: #1e1e1e;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Akshar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 110px;
+  top: 644px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._1Millon2 {
+  color: #1e1e1e;
+  font-size: 15px;
+  line-height: 16px;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 110px;
+  top: 671px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._50 {
+  color: #5164bf;
+  font-size: 16px;
+  line-height: 21px;
+  font-weight: bold;
+  font-family: Akatab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.003em;
+  position: absolute;
+  left: 78.9333%;
+  right: 12.8%;
+  top: 81.0345%;
+  bottom: 16.3793%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.meta1 {
+  position: absolute;
+  left: 43px;
+  top: 208px;
+  width: 288px;
+  height: 158px;
+  background-image:/* webpackIgnore: true */ url('assets/meta1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

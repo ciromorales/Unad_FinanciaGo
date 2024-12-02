@@ -1,0 +1,22 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 200px;
+  height: 200px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.securityVaultCrimeSecuritySecu {
+  position: absolute;
+  left: 4.999px;
+  top: 30.5283px;
+  width: 189.9994px;
+  height: 138.9325px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
